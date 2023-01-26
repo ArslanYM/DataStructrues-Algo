@@ -1,6 +1,6 @@
 Problem1:  Number of Arithmetic Triplets.
 Difficulty: Easy 
-Link: https://leetcode.com/problems/number-of-arithmetic-triplets/
+Link: [https://leetcode.com/problems/number-of-arithmetic-triplets/]
 Approach : Three pointer / for loops.
 Language : C++
 
