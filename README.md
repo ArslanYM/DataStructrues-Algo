@@ -14,7 +14,7 @@ Sharing what I'm learning everyday in Data Structures And Algorithms
 
 
 
-##  Links to free DSA courses => 
+##  Links to free DSA courses.
 - [C++](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - [Java](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [C](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
