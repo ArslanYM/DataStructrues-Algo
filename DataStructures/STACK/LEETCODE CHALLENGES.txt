@@ -1,0 +1,7 @@
+SUGGESTED PROBLEMS
+
+https://leetcode.com/problems/baseball-game/
+
+https://leetcode.com/problems/valid-parentheses/
+
+https://leetcode.com/problems/min-stack/
