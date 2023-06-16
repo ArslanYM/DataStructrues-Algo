@@ -1,9 +1,8 @@
 # DSArepo
 Sharing what I'm learning everyday in Data Structures And Algorithms
 ## Topics Covered 
-- Basics
-- Arrays
-- Strings 
+- [Basics C++](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [Arrays & Strings](https://github.com/ArslanYM/DataStructrues-Algo/tree/main/Algorithms/Arrays) 
 - Sorting
 - Searching
 - Recursion
